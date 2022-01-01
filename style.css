@@ -1,0 +1,55 @@
+header{
+    background-color:rgba(128, 128, 128, 0.473);
+    text-align: center;
+}
+
+h1{
+    font-size: xxx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(200, 255, 0);
+}
+
+#span1{
+    color:red;
+    font-size: large;
+}
+
+#bun1{
+    font-family: 'Shizuru', cursive;
+    font-size:30px;
+    color: brown;
+}
+
+/* #head1{
+
+}
+
+#head2{
+    
+} */
+
+#div1{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+#img1{
+    height:450px;
+    width:600px;
+    border:3px greenyellow solid;
+    float:left;
+}
+
+#img2{
+    height:200px;
+    width:500px;
+    float:right;
+}
+ 
+#head3{
+    margin-top:360px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.89);
+    color:greenyellow;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+}
