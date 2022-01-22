@@ -1,55 +1,47 @@
+body{
+    background-color:beige;
+}
+
 header{
-    background-color:rgba(128, 128, 128, 0.473);
+    background-color:rgb(177, 247, 223);
+    color:rgb(255, 116, 65);
     text-align: center;
+    font-family: 'Satisfy', cursive;
 }
 
-h1{
-    font-size: xxx-large;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(200, 255, 0);
-}
-
-#span1{
+header h3{
     color:red;
-    font-size: large;
+    font-weight: bold;
 }
 
-#bun1{
-    font-family: 'Shizuru', cursive;
-    font-size:30px;
-    color: brown;
-}
-
-/* #head1{
-
-}
-
-#head2{
-    
-} */
-
-#div1{
-    padding-left:30px;
-    padding-right:30px;
-}
-
-#img1{
-    height:450px;
-    width:600px;
-    border:3px greenyellow solid;
-    float:left;
-}
-
-#img2{
-    height:200px;
-    width:500px;
-    float:right;
-}
- 
-#head3{
-    margin-top:360px;
+#div-1{
+    background-color: rgb(196, 225, 252);
     text-align: center;
-    background-color: rgba(128, 128, 128, 0.89);
-    color:greenyellow;
-    font-family: 'Yuji Hentaigana Akebono', cursive;
+    font-family: 'Kalam', cursive;
+}
+
+#div-1 button{
+    align-items: center;
+    color:cyan;
+    font-weight: bold;
+    font-size:20px;
+    margin-top:10px;
+}
+
+.Img_can{
+    height:250px;
+    width:250px;
+    margin-bottom: 20px;
+} 
+
+footer{
+    background-color: bisque;
+    color: rgb(252, 34, 34);
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    font-size:30px;
+    font-family: 'Creepster', cursive;
+    text-shadow:3px 3px yellow;
 }
